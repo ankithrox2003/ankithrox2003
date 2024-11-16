@@ -1,12 +1,12 @@
 # 👨‍💻 Ankith P
 
-**`Machine Learning Enthusiast | Software Developer | CS Graduate`**
+**`Machine Learning Enthusiast | Software Developer | AIML Graduate`**
 
 ---
 
 ### 🚀 About Me  
 - 🧠 Passionate about building **Machine Learning** projects.  
-- 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Django**, **Node.js**, **React**.  
+- 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **jupyter**, **Node.js**, **React**, **git**, **github**.
 - 🧪 Experienced with **PyTorch**, **TensorFlow**, **Pandas**, **NumPy**.  
 - 📜 Proficient in **C**, **Java**, and **Python**.  
 - 🌱 Currently exploring **AI/ML** and **Full-Stack Development**.  
