@@ -29,20 +29,19 @@
 ---
 
 ### 🏆 Projects  
-Here are some of the exciting projects Ankith has worked on:  
+Here are some of the exciting projects i have worked on:  
 
-1. **Digital Twin for Solar Panel Plants**  
-   Simulated solar plant operations with **Unity** and **Three.js** for predictive analysis.  
+1. **Online Food Ordering Website**  
+Developed an online food ordering website using **HTML**, **CSS**, **PHP**, and **MySQL** to provide users with a seamless interface for browsing menus, placing orders, and managing payments. 
 
-2. **Buy Now, Pay Later (BNPL) Solution**  
-   Built a B2B payment solution using **Flask** and **SQLAlchemy**, with ML-based credit scoring.
+2. **Virtual Keyboard**  
+In my project on a virtual keyboard using machine learning, I developed a model to accurately recognize and predict keystrokes based on hand movements. I used computer vision techniques to track finger positions
 
-3. **Hospital Management System**  
-   Developed backend systems and database management for efficient healthcare operations.
+3. **Voice Controlled Bot**  
+Created a voice-controlled bot using Python and speech recognition libraries to enable hands-free interaction with digital devices.
 
-4. **IT Help Desk Issue Tracking System**  
-   Created an issue tracking platform to improve IT response times.  
-
+4. **Registration Page**  
+This project is a basic **Node.js** application that uses **MySQL** to manage a placement registration form, allowing users to submit their details, which are then stored in a MySQL database. It serves HTML files and handles form submissions.
 ---
 
 ### 🌟 Fun Facts  
@@ -53,8 +52,8 @@ Here are some of the exciting projects Ankith has worked on:
 ---
 
 ### 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com)  
-- [GitHub](https://github.com)  
+- [LinkedIn] www.linkedin.com/in/ankithpradeep 
+- [GitHub] https://github.com/ankithrox2003 
 
 ---
 
