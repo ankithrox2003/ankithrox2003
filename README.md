@@ -1,5 +1,5 @@
 # 👨‍💻 Ankith P
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 **`Machine Learning Enthusiast | Software Developer | AIML Graduate`**
 
 ---
